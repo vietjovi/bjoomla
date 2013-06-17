@@ -4,7 +4,6 @@ import sys
 import urllib2, urllib
 import cookielib
 import re
-from _abcoll import Container
 
 #
 #functions
