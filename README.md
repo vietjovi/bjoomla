@@ -6,6 +6,6 @@ Feature:
    	
 Tested with joomla 1.5.xx , 2.x , 3.x (beta)
 
-Author: vietjovi@gmail.com
+Author: vietjovi@gmail.com  
 Website: http://uns.vn
 	
